@@ -1,0 +1,189 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .testimonials-slides .owl-prev {
+        left: -3%;
+    }
+
+    .testimonials-slides .owl-next {
+        right: -3%;
+    }
+    .fancy-skills-area {
+        padding: 100px;
+    }
+    .breadcumb-content h2 {
+        font-size: 40px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .header_area {
+        height: 70px;
+        padding: 0 30px;
+    }
+    .navbar-toggler {
+        border: 2px solid #fff;
+        margin: 18px 0;
+    }
+    .navbar-toggler span {
+        color: #fff;
+    }
+    #fancyNav {
+        background: #7450fe;
+        background: -webkit-linear-gradient(to right, #7450fe, #21d397);
+        background: -webkit-linear-gradient(left, #7450fe, #21d397);
+        background: linear-gradient(to right, #7450fe, #21d397);
+        padding: 15px;
+        border-radius: 0 0 3px 3px;
+        margin-top: -2px;
+    }
+    .fancy-search-and-shop-area {
+        margin-left: 30px;
+        margin-top: 15px;
+    }
+    .fancy-search-form {
+        height: 70px;
+        padding: 0 30px;
+    }
+    .fancy-search-form form input {
+        font-size: 30px;
+    }
+    .search-close-btn {
+        top: 4px;
+    }
+    .fancy-hero-content h2 {
+        font-size: 36px;
+    }
+    .fancy-hero-area {
+        height: 800px;
+    }
+    .about-us-thumb {
+        margin-top: 50px;
+    }
+    .fancy-skills-area {
+        padding: 100px 0;
+    }
+    .section-heading h2 {
+        font-size: 30px;
+    }
+    .testimonials-slides .owl-prev {
+        left: -2%;
+    }
+    .testimonials-slides .owl-next {
+        right: -2%;
+    }
+    .footer-nav ul li a {
+        padding: 0 5px;
+    }
+    .breadcumb-content h2 {
+        font-size: 36px;
+    }
+    .blog-sidebar {
+        margin-top: 100px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .header_area {
+        height: 70px;
+        padding: 0 15px;
+    }
+    .navbar-toggler {
+        border: 2px solid #fff;
+        margin: 18px 0;
+    }
+    .navbar-toggler span {
+        color: #fff;
+    }
+    #fancyNav {
+        background: #7450fe;
+        background: -webkit-linear-gradient(to right, #7450fe, #21d397);
+        background: -webkit-linear-gradient(left, #7450fe, #21d397);
+        background: linear-gradient(to right, #7450fe, #21d397);
+        padding: 15px 0;
+        border-radius: 0 0 3px 3px;
+        margin-top: -2px;
+    }
+    .fancy-search-and-shop-area {
+        margin-left: 30px;
+        margin-top: 15px;
+    }
+    .fancy-search-form {
+        height: 70px;
+        padding: 0 30px;
+    }
+    .fancy-search-form form input {
+        font-size: 30px;
+    }
+    .search-close-btn {
+        top: 4px;
+    }
+    .fancy-hero-content h2 {
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    .video-overview > a {
+        margin-bottom: 30px;
+    }
+    .single-top-feature {
+        padding: 15px;
+    }
+    .fancy-btn {
+        width: 140px;
+    }
+    .fancy-top-features-content {
+        position: relative;
+        bottom: -100px;
+        -webkit-transform: translateY(0%);
+                transform: translateY(0%);
+    }
+    .about-us-text > h2 {
+        font-size: 24px;
+    }
+    .about-us-thumb {
+        margin-top: 50px;
+    }
+    .fancy-hero-area {
+        height: 600px;
+    }
+    .fancy-skills-area {
+        padding: 100px 0;
+    }
+    .skills-side-thumb {
+        position: relative;
+        width: calc(100% - 15px);
+        -webkit-transform: translateY(0%);
+                transform: translateY(0%);
+        margin-bottom: 50px;
+    }
+    .footer-copywrite-area {
+        height: 100px;
+    }
+    .copywrite-text p {
+        font-size: 12px;
+        text-align: center;
+        margin-right: 30px;
+    }
+    .footer-nav ul li a {
+        font-size: 12px;
+        text-align: center;
+        padding: 0 10px 0 0;
+    }
+    .testimonials-slides .owl-prev {
+        left: -2%;
+    }
+    .testimonials-slides .owl-next {
+        right: -2%;
+    }
+    .contact-form-area {
+        margin-top: 100px;
+    }
+    .breadcumb-content h2 {
+        font-size: 24px;
+    }
+    .blog-sidebar {
+        margin-top: 100px;
+    }
+}
