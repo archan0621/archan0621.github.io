@@ -41,6 +41,11 @@
             duration: 1000,
             animateOnResize: true
         });
+        $('#bar5').barfiller({
+            tooltip: true,
+            duration: 1000,
+            animateOnResize: true
+        });
     }
 
     // ScrollUp Active Code
