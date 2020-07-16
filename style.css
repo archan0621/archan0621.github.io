@@ -409,58 +409,6 @@ li {
     font-weight: 500;
 }
 
-.fancy-search-and-shop-area {
-    margin-left: 65px;
-}
-
-.fancy-search-and-shop-area > a {
-    font-size: 16px;
-    color: #fff;
-}
-
-.fancy-search-and-shop-area > a:first-child {
-    margin-right: 30px;
-}
-
-.fancy-search-form {
-    width: 100%;
-    background-color: #fff;
-    height: 100px;
-    position: fixed;
-    top: -130px;
-    left: 0;
-    padding: 0 65px;
-    -webkit-transition-duration: 600ms;
-    transition-duration: 600ms;
-    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.1);
-}
-
-.search-form-on .fancy-search-form {
-    top: 0;
-    z-index: 2000;
-}
-
-.fancy-search-form form input {
-    width: 100%;
-    font-size: 36px;
-    color: #b5aec4;
-    background-color: transparent;
-    border: none;
-}
-
-.search-close-btn {
-    color: #2bc0a4;
-    font-size: 30px;
-    top: 8px;
-    position: absolute;
-    right: 0;
-    width: 40px;
-    height: 40px;
-    text-align: center;
-    cursor: pointer;
-    z-index: 1;
-}
-
 /* hero area css */
 
 .fancy-hero-area {
@@ -756,108 +704,7 @@ li {
 
 /* Footer Area CSS */
 
-.single-footer-widget {
-    margin-bottom: 30px;
-}
 
-.single-footer-widget h6 {
-    color: #fff;
-    margin-bottom: 30px;
-    font-weight: 600;
-}
-
-.single-footer-widget > p {
-    color: #b5aec4;
-    font-weight: 300;
-}
-
-.single-footer-widget form {
-    position: relative;
-    z-index: 1;
-}
-
-.single-footer-widget form > input {
-    width: 100%;
-    height: 40px;
-    padding: 0 15px;
-    color: #b5aec4;
-    border: none;
-    background-color: #2b2e3d;
-    border-radius: 2px;
-    font-size: 12px;
-}
-
-.single-footer-widget form > button {
-    padding: 5px 15px;
-    border: none;
-    position: absolute;
-    top: 0;
-    right: 0;
-    font-size: 13px;
-    z-index: 5;
-    height: 40px;
-    color: #fff;
-    text-transform: uppercase;
-    font-weight: 600;
-    background: #7450fe;
-    background: -webkit-linear-gradient(to right, #7450fe, #21d397);
-    background: -webkit-linear-gradient(left, #7450fe, #21d397);
-    background: linear-gradient(to right, #7450fe, #21d397);
-}
-
-.footer-social-widegt {
-    margin-top: 30px;
-}
-
-.footer-social-widegt > a {
-    color: #2bc0a4;
-    font-size: 14px;
-    -webkit-box-flex: 1;
-    -ms-flex: 1;
-    flex: 1;
-}
-
-.footer-social-widegt > a:hover {
-    color: #7450fe;
-}
-
-.single-tweet a {
-    color: #b5aec4;
-    font-size: 14px;
-    font-weight: 400;
-    display: block;
-    line-height: 1.9;
-}
-
-.single-tweet a > i {
-    color: #2bc0a4;
-}
-
-.single-tweet span {
-    font-size: 12px;
-    color: #b5aec4;
-}
-
-.single-footer-widget ul li {
-    display: inline-block;
-    width: 50%;
-    float: left;
-    overflow: hidden
-}
-
-.single-footer-widget ul li a {
-    font-size: 14px;
-    color: #b5aec4;
-    font-weight: 400;
-    margin-bottom: 15px;
-    display: block;
-    margin-left: -10px;
-}
-
-.single-footer-widget ul li a:hover {
-    margin-left: 5px;
-    color: #2bc0a4;
-}
 
 .footer-copywrite-area {
     background-color: #04081d;
@@ -873,18 +720,7 @@ li {
     color: #b5aec4;
 }
 
-.footer-nav ul li {
-    display: inline-block;
-    float: left;
-}
 
-.footer-nav ul li a {
-    font-size: 14px;
-    font-weight: 400;
-    color: #b5aec4;
-    display: block;
-    padding: 0 20px;
-}
 
 /* Breadcumb Area CSS */
 
