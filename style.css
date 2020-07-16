@@ -641,10 +641,10 @@ li {
     display: block;
     position: relative;
     height: 100%;
-    background: #7450fe;
-    background: -webkit-linear-gradient(to right, #7450fe, #21d397);
-    background: -webkit-linear-gradient(left, #7450fe, #21d397);
-    background: linear-gradient(to right, #7450fe, #21d397);
+    background: #7303c0;
+    background: -webkit-linear-gradient(to right, #7303c0, #ec38bc);
+    background: -webkit-linear-gradient(left, #7303c0, #ec38bc);
+    background: linear-gradient(to right, #7303c0, #ec38bc);
     z-index: 1;
 }
 
