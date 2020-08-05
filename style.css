@@ -104,10 +104,10 @@ li {
 
 #preloader {
     overflow: hidden;
-    background: #7450fe;
-    background: -webkit-linear-gradient(to right, #7450fe, #21d397);
-    background: -webkit-linear-gradient(left, #7450fe, #21d397);
-    background: linear-gradient(to right, #7450fe, #21d397);
+    background: #4ca1af;
+    background: -webkit-linear-gradient(to right, #4ca1af, #c4e0e5);
+    background: -webkit-linear-gradient(left, #4ca1af, #c4e0e5);
+    background: linear-gradient(to right, #4ca1af, #c4e0e5);
     height: 100%;
     left: 0;
     position: fixed;
